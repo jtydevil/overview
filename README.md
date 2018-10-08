@@ -55,6 +55,5 @@
 
 ## 开发
 - [实习生规划](common/intership.md)
-- [PHP](https://github.com/YunhanPHP/overview)
-- [前端开发](https://github.com/YunhanJS/overview)
+- [前端开发](web/README.md)
 - [运维](operation/README.md)
