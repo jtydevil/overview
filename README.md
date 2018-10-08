@@ -54,6 +54,6 @@
 - [URL规范](rule/url.md)
 
 ## 开发
-- [实习生规划](common/intership.md)
+- [学习规划](common/intership.md)
 - [前端开发](web/README.md)
 - [运维](operation/README.md)
