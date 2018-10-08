@@ -11,7 +11,7 @@
 
 ## 入门
 - webstorm安装：官网下载，百度破解码
-- [基础知识](web/1-basic.md) - 10h
+- [基础知识](1-basic.md) - 10h
 - 移动端 pc端页面布局实战
 - emmet 入门
 - sass 上手
