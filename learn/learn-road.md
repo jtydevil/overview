@@ -1,10 +1,10 @@
-# 学习路径
+# PHP学习路径
 
-## 入门
+## PHP入门
 - 环境搭建：PhpStudy + Composer + PhpStorm
 - Composer 基础
 - [PSR：PSR1, PSR2, PSR4](psr.md)
-- MVC 模式
+- [MVC 模式](mvc.md)
 - PHP 常用方法了解
 - PHP7 特性了解
 - mysql 基本了解，navicat安装
