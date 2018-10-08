@@ -3,7 +3,7 @@
 ## 入门
 - 环境搭建：PhpStudy + Composer + PhpStorm
 - Composer 基础
-- PSR：PSR1, PSR2, PSR4
+- [PSR：PSR1, PSR2, PSR4](.psr/psr.md)
 - MVC 模式
 - PHP 常用方法了解
 - PHP7 特性了解

@@ -36,8 +36,8 @@
 
 ## 基础学习
 - MarkDown
-    - [快速入门](http://wowubuntu.com/markdown/basic.html)
-    - [完整语法](http://wowubuntu.com/markdown/index.html)
+    - [快速入门](markdown/markwown.md)
+    - [完整语法](https://www.jianshu.com/p/q81RER)
 - SSH keys
     - [连接原理讲解](https://www.cnblogs.com/chensiqiqi/p/6550221.html)
     - [使用](https://code.aliyun.com/help/ssh/README)
