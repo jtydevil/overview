@@ -36,7 +36,7 @@
 
 ## 基础学习
 - MarkDown
-    - [快速入门](markdown/markwown.md)
+    - [快速入门](markdown/markdown.md)
     - [完整语法](https://www.jianshu.com/p/q81RER)
 - SSH keys
     - [连接原理讲解](https://www.cnblogs.com/chensiqiqi/p/6550221.html)
