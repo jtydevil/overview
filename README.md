@@ -22,7 +22,7 @@
 - [学习路径](learn/learn-road.md)
 
 ## 关注
-- [laravel 社区](https://laravel-china.org/)
+- [laravel 社区](https://laravel-china.org/users/29076)
 - [laravel源码](https://github.com/laravel/laravel)
 
 ## 其它
